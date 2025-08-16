@@ -1,4 +1,3 @@
-// src/controllers/noteController.js
 const {
   Note,
   Tag,
